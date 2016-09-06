@@ -1,0 +1,17 @@
+/Users/meline/Projects/Unity/DontTapMe/Temp/bin/Debug/UnityEngine.dll
+/Users/meline/Projects/Unity/DontTapMe/Temp/bin/Debug/UnityEditor.dll
+/Users/meline/Projects/Unity/DontTapMe/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/meline/Projects/Unity/DontTapMe/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/meline/Projects/Unity/DontTapMe/Temp/bin/Debug/Mono.Cecil.dll
+/Users/meline/Projects/Unity/DontTapMe/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/meline/Projects/Unity/DontTapMe/Temp/bin/Debug/Unity.DataContract.dll
+/Users/meline/Projects/Unity/DontTapMe/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/meline/Projects/Unity/DontTapMe/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/meline/Projects/Unity/DontTapMe/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/meline/Projects/Unity/DontTapMe/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/meline/Projects/Unity/DontTapMe/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/meline/Projects/Unity/DontTapMe/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/meline/Projects/Unity/DontTapMe/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/meline/Projects/Unity/DontTapMe/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/meline/Projects/Unity/DontTapMe/obj/Debug/Assembly-CSharp.dll
+/Users/meline/Projects/Unity/DontTapMe/obj/Debug/Assembly-CSharp.dll.mdb
